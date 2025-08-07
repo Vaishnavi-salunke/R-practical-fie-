@@ -4,7 +4,7 @@
 
 #Q1)Create variable to store
 #your name
-name<- "Tanaya"
+name<- "Vaishnavi"
 #your age
 age<- 20
 #if a student
@@ -306,3 +306,4 @@ ggplot(top_10,aes( x = reorder(Name, -SR), y = SR)) +
 
 #Q6) Coorelation 
 cor(batting_bowling_ipl_bat$HF, batting_bowling_ipl_bat$Runs, use = "complete.obs")
+
